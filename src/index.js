@@ -10,3 +10,4 @@ root.render(
   </React.StrictMode>
 );
 
+//Copyright © Isuru sahan @ https://github.com/IsuruSahan
